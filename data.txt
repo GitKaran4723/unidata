@@ -7,16 +7,111 @@
   - Republic Day: January 26, 2024
   - Summer Break: June 1-30, 2024
 
-📌 **Monday to Friday**
-09:00 AM - 10:00 AM → Mathematics (Prof. John Doe)
-10:15 AM - 11:15 AM → Physics (Dr. Jane Smith)
-11:30 AM - 12:30 PM → Computer Science (Mr. Alan Turing)
-Lunch Break: 12:30 PM - 1:30 PM
-01:30 PM - 02:30 PM → Chemistry (Dr. Marie Curie)
-02:45 PM - 03:45 PM → History (Prof. William Durant)
+## **BCA Timetable - 2nd Semester**
 
-📌 **Saturday**
-- Special Lectures & Workshops
+### **Weekly Class Schedule - Section A & Section B**
+
+### **📅 Monday**
+#### **Section A**
+- **10:00 - 11:00 AM** → Data Structures (Mr. Karan S J)
+- **11:00 - 12:00 AM** → Operating System (Ms. Pavithra A V)
+- **12:00 - 12:15 AM** → Interval (Break)
+- **12:15 - 1:15 PM** → Java (Mrs. Amthu Hai)
+- **1:15 - 2:00 PM** → Lunch Break
+- **2:00 - 4:00 PM** → Kannada/Hindi (Dr. Kumar)
+- **4:00 - 5:00 PM** → Operating System Lab (Ms. Pavithra A V)
+
+#### **Section B**
+- **10:00 - 11:00 AM** → Java (Mrs. Amthu Hai)
+- **11:00 - 12:00 AM** → English (Dr. Mandela)
+- **12:00 - 12:15 AM** → Interval (Break)
+- **12:15 - 1:15 PM** → Operating System (Ms. Pavithra A V)
+- **1:15 - 2:00 PM** → Lunch Break
+- **2:00 - 4:00 PM** → Kannada/Hindi (Dr. Shweta)
+- **4:00 - 5:00 PM** → English (Dr. Mandela)
+
+### **📅 Tuesday**
+#### **Section A**
+- **10:00 - 11:30 AM** → Java Lab (Mrs. Amthu Hai, Ms. Pavithra A V)
+- **11:30 - 11:45 AM** → Interval (Break)
+- **11:45 - 1:15 PM** → Operating System Lab (Ms. Pavithra A V, Mr. Karan S J)
+- **1:15 - 2:00 PM** → Lunch Break
+- **2:00 - 3:30 PM** → Java (Mrs. Amthu Hai)
+- **3:30 - 5:00 PM** → IC (—)
+
+#### **Section B**
+- **10:00 - 11:00 AM** → Data Structures (Mr. Karan S J)
+- **11:00 - 12:00 PM** → English (Dr. Mandela)
+- **12:00 - 12:15 AM** → Interval (Break)
+- **12:15 - 1:15 PM** → Java (Mrs. Amthu Hai)
+- **1:15 - 2:00 PM** → Lunch Break
+- **2:00 - 3:30 PM** → IC (—)
+- **3:30 - 5:00 PM** → Operating System Lab Exp. (Ms. Pavithra A V)
+
+### **📅 Wednesday**
+#### **Section A**
+- **10:00 - 12:00 PM** → English (Mrs. Renu)
+- **12:15 - 1:15 PM** → Operating System (Ms. Pavithra A V)
+- **1:15 - 2:00 PM** → Lunch Break
+- **2:00 - 3:30 PM** → Data Structures Lab (Mr. Karan S J, Mrs. Amthu Hai)
+- **3:30 - 5:00 PM** → Data Structures Lab Exp. (Mr. Karan S J)
+
+#### **Section B**
+- **10:00 - 11:30 AM** → Operating System (Ms. Pavithra A V)
+- **11:30 - 11:45 AM** → Interval (Break)
+- **11:45 - 1:15 PM** → Java (Mrs. Amthu Hai)
+- **1:15 - 2:00 PM** → Lunch Break
+- **2:00 - 3:00 PM** → English (Dr. Mandela)
+- **3:30 - 5:00 PM** → JAVA Lab (Mr. Karan S J, Mrs. Amthu Hai)
+
+### **📅 Thursday**
+#### **Section A**
+- **10:00 - 12:00 PM** → English (Mrs. Renu)
+- **12:00 - 12:15 PM** → Interval (Break)
+- **12:15 - 1:15 PM** → Java (Mrs. Amthu Hai)
+- **1:15 - 2:00 PM** → Lunch Break
+- **2:00 - 3:30 PM** → Data Structures (Mr. Karan S J)
+- **3:30 - 5:00 PM** → JAVA Lab Exp. (Mrs. Amthu Hai)
+
+#### **Section B**
+- **10:00 - 11:30 AM** → JAVA Lab (Mr. Karan S J, Mrs. Amthu Hai)
+- **11:30 - 11:45 AM** → Interval (Break)
+- **11:45 - 1:15 PM** → Data Structures Lab (Mr. Karan S J, Ms. Pavithra A V)
+- **1:15 - 2:00 PM** → Lunch Break
+- **2:00 - 4:00 PM** → Kannada/Hindi (Dr. Shweta)
+- **4:00 - 5:00 PM** → Data Structures (Mr. Karan S J)
+
+### **📅 Friday**
+#### **Section A**
+- **10:00 - 11:30 AM** → Data Structures (Mr. Karan S J)
+- **11:30 - 11:45 AM** → Interval (Break)
+- **11:45 - 1:15 PM** → Operating System (Ms. Pavithra A V)
+- **1:15 - 2:00 PM** → Lunch Break
+- **2:00 - 4:00 PM** → Kannada/Hindi (Dr. Kumar)
+- **4:00 - 5:00 PM** → JAVA (Mrs. Amthu Hai)
+
+#### **Section B**
+- **10:00 - 11:30 AM** → Operating System (Ms. Pavithra A V)
+- **11:30 - 11:45 AM** → Interval (Break)
+- **11:45 - 1:15 PM** → Data Structures (Mr. Karan S J)
+- **1:15 - 2:00 PM** → Lunch Break
+- **2:00 - 3:30 PM** → JAVA (Mrs. Amthu Hai)
+- **4:00 - 5:00 PM** → Data Structures Lab Exp. (Mr. Karan S J)
+
+### **📅 Saturday**
+#### **Section A**
+- **10:00 - 11:30 AM** → CC & EC (Placement) (Mr. Karan S J, Ms. Pavithra A V, Mrs. Amthu Hai)
+- **11:30 - 11:45 AM** → Interval (Break)
+- **11:45 - 1:15 PM** → CC & EC (Placement) (Mr. Karan S J, Ms. Pavithra A V, Mrs. Amthu Hai)
+- **1:15 - 2:00 PM** → Lunch Break
+
+#### **Section B**
+- **10:00 - 11:30 AM** → CC & EC (Placement) (Mr. Karan S J, Ms. Pavithra A V, Mrs. Amthu Hai)
+- **11:30 - 11:45 AM** → Interval (Break)
+- **11:45 - 1:15 PM** → CC & EC (Placement) (Mr. Karan S J, Ms. Pavithra A V, Mrs. Amthu Hai)
+- **1:15 - 2:00 PM** → Lunch Break
+
+
 
 📚 **Mathematics**
 - Algebra: Linear equations, Matrices
