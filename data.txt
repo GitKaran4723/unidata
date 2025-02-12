@@ -1,0 +1,70 @@
+```
+📅 Academic Year: 2024-2025
+- Semester Start: January 15, 2024
+- Mid-Term Exams: March 10-15, 2024
+- Final Exams: May 20-30, 2024
+- Holidays:
+  - Republic Day: January 26, 2024
+  - Summer Break: June 1-30, 2024
+
+📌 **Monday to Friday**
+09:00 AM - 10:00 AM → Mathematics (Prof. John Doe)
+10:15 AM - 11:15 AM → Physics (Dr. Jane Smith)
+11:30 AM - 12:30 PM → Computer Science (Mr. Alan Turing)
+Lunch Break: 12:30 PM - 1:30 PM
+01:30 PM - 02:30 PM → Chemistry (Dr. Marie Curie)
+02:45 PM - 03:45 PM → History (Prof. William Durant)
+
+📌 **Saturday**
+- Special Lectures & Workshops
+
+📚 **Mathematics**
+- Algebra: Linear equations, Matrices
+- Calculus: Differentiation, Integration
+- Probability & Statistics
+
+📚 **Physics**
+- Mechanics: Newton’s Laws, Motion
+- Thermodynamics: Heat, Energy Transfer
+- Quantum Mechanics: Basics of Wave Theory
+
+📚 **Computer Science**
+- Programming: Python, JavaScript
+- Data Structures: Linked List, Trees, Graphs
+- Algorithms: Sorting, Searching
+
+📚 **Chemistry**
+- Organic Chemistry: Functional Groups
+- Inorganic Chemistry: Periodic Table Trends
+- Physical Chemistry: Chemical Kinetics
+
+📚 **History**
+- Ancient Civilizations: Mesopotamia, Harappan
+- Medieval Period: Mughal Empire
+- Modern History: World Wars, Indian Independence
+
+👨‍🏫 **Class Teachers**
+- Class 10A: Prof. Richard Feynman (Physics)
+- Class 10B: Dr. Rosalind Franklin (Biology)
+- Class 12A: Mr. Nikola Tesla (Electronics)
+- Class 12B: Prof. Ada Lovelace (Computer Science)
+
+📖 **Exam Format**
+- **Mid-Terms**: 50 Marks (Objective & Subjective)
+- **Final Exams**: 100 Marks (Theory & Practical)
+- **Passing Criteria**: Minimum 35% marks per subject
+
+🚫 **Exam Rules**
+- No electronic devices allowed.
+- Late submissions are not accepted.
+- Cheating will result in disqualification.
+
+📌 **Contact Information**
+- Principal’s Office: principal@school.edu
+- Academic Coordinator: academics@school.edu
+- Technical Support: support@school.edu
+
+🏫 **Library Timings**
+- Monday - Friday: 8:00 AM - 6:00 PM
+- Saturday: 9:00 AM - 3:00 PM
+```
